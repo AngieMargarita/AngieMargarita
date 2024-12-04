@@ -26,7 +26,7 @@ Feel free to connect and learn together! 🚀
 const Angie = {
   pronouns: "she" | "her",
   code: [Javascript,  HTML, CSS, Python, Java],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+ challenge: "I am learning python in two months"
 }
 ```
 <br>
