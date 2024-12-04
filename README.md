@@ -1,4 +1,4 @@
-## Hi, I'm Angie 👋👨🏻‍💻 
+## Hi, I'm Angie 👋💻📚🚀 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angiemargarita&label=Profile%20views&color=0e75b6&style=flat" alt="angiemargarita" /> </p>
 <img width="35%" align="right" alt="Texto alternativo" src="https://github.com/user-attachments/assets/8b0fc494-ad98-4bf5-b309-39ebb21bff60?raw=true"/>
 
