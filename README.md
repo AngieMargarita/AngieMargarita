@@ -1,7 +1,6 @@
 ## Hi, I'm Angie 👋💻📚🚀 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=angiemargarita&label=Profile%20views&color=0e75b6&style=flat" alt="angiemargarita" /> </p>
 <img width="35%" align="right" alt="Texto alternativo" src="https://github.com/user-attachments/assets/8b0fc494-ad98-4bf5-b309-39ebb21bff60?raw=true"/>
-
 I'm a Systems Engineering student exploring the world of Web Development. While I’m still learning the basics of front-end technologies like HTML, CSS, and JavaScript, I'm excited about expanding my skills and diving deeper into the field. I enjoy solving problems and am eager to grow as a developer!
 
 Feel free to connect and learn together! 🚀
