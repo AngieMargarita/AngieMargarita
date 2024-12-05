@@ -17,7 +17,7 @@ Feel free to connect and learn together! 🚀
 
 <p align="left">
 <a href="https://twitter.com/codingth3future" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingth3future" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/angie bernal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angie bernal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/angie-bernal-957b8a2a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="angie bernal" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
