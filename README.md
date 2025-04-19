@@ -3,7 +3,7 @@
 <img width="35%" align="right" alt="Texto alternativo" src="https://github.com/user-attachments/assets/8b0fc494-ad98-4bf5-b309-39ebb21bff60?raw=true"/>
 I'm a Systems Engineering student exploring the world of Web Development. While I’m still learning the basics of front-end technologies like HTML, CSS, and JavaScript, I'm excited about expanding my skills and diving deeper into the field. I enjoy solving problems and am eager to grow as a developer!
 
-Feel free to connect and learn together! 🚀
+<!---**Feel free to connect and learn together! 🚀
 
 - 🔭 I’m currently working on learning Python, aiming to make it my default programming language.<br>
 - 🌱 I’m currently learning HTML, CSS, and JavaScript to build a strong foundation in web development.<br>
@@ -13,7 +13,7 @@ Feel free to connect and learn together! 🚀
 ## Find me around the web🌎:
 
 
-<!---**<p align="left"> <a href="https://twitter.com/codingth3future" target="blank"><img src="https://img.shields.io/twitter/follow/codingth3future?logo=twitter&style=for-the-badge" alt="codingth3future" /></a> </p>**--->
+<p align="left"> <a href="https://twitter.com/codingth3future" target="blank"><img src="https://img.shields.io/twitter/follow/codingth3future?logo=twitter&style=for-the-badge" alt="codingth3future" /></a> </p>**--->
 
 <p align="left">
 <a href="https://twitter.com/codingth3future" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codingth3future" height="30" width="40" /></a>
